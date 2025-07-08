@@ -49,3 +49,15 @@ The dataset contains detailed information such as:
 ## Outcome
 This project helps visualize airline scheduling trends and offers a base for operational or business decisions.
 
+
+## Files Included
+
+-`British_Airways_Analysis.ipynb`-Jupyter Notebook with full code
+- `README.md` – This file
+
+---
+
+## Contact
+
+For questions or suggestions, feel free to connect via LinkedIn or GitHub! https://www.linkedin.com/in/meghna-dey-a5906a305?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFuubh9VsQxaCAlCIJ8D4xQ%3D%3D
+
